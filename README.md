@@ -1,4 +1,4 @@
-# Sanelieu's Discord FRiend Exporter
+# Sanelieu's Discord Friend Exporter
 
 ## Creators
 - Top
